@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SovTechPortfolio/static/css/main.b3bd9439.chunk.css",
+    "main.js": "/SovTechPortfolio/static/js/main.c90a3800.chunk.js",
+    "main.js.map": "/SovTechPortfolio/static/js/main.c90a3800.chunk.js.map",
+    "runtime-main.js": "/SovTechPortfolio/static/js/runtime-main.85930ada.js",
+    "runtime-main.js.map": "/SovTechPortfolio/static/js/runtime-main.85930ada.js.map",
+    "static/js/2.6040467e.chunk.js": "/SovTechPortfolio/static/js/2.6040467e.chunk.js",
+    "static/js/2.6040467e.chunk.js.map": "/SovTechPortfolio/static/js/2.6040467e.chunk.js.map",
+    "index.html": "/SovTechPortfolio/index.html",
+    "static/css/main.b3bd9439.chunk.css.map": "/SovTechPortfolio/static/css/main.b3bd9439.chunk.css.map",
+    "static/js/2.6040467e.chunk.js.LICENSE.txt": "/SovTechPortfolio/static/js/2.6040467e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85930ada.js",
+    "static/js/2.6040467e.chunk.js",
+    "static/css/main.b3bd9439.chunk.css",
+    "static/js/main.c90a3800.chunk.js"
+  ]
+}
